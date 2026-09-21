@@ -18,7 +18,7 @@ Code goes here -->
 
 import java.util.Scanner;
 
-public class Personal Fitness and Health Tracker {
+public class Personal-Fitness-and-Health-Tracker {
 
     static Scanner sc = new Scanner(System.in);
 
