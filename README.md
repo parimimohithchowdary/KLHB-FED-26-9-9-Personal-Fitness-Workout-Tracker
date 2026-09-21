@@ -9,7 +9,7 @@ The system can also help users maintain a structured history of their workouts, 
 
 
 Team Members --> 2620090080 Varun Kowshik, 2620030360 Grahith, 2620030540 Mohith
-Coordinator --> Dr K.Rakesh
+Faculty/Suprvisor --> Dr K.Rakesh
 
 
 
